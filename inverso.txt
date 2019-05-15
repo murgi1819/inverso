@@ -1,0 +1,10 @@
+Este documento será modificado con Git.
+Cada participante deberá:
+- Clonar en su repositorio local, este repositorio que sólo contiene el documento actual.
+- Añadir su nombre de usuario, en orden alfabético INVERSO.
+- Mezclar su repositorio local con el repositorio remoto.
+
+
+Los participantes son:
+
+gmesquivel
